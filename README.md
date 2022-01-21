@@ -18,7 +18,7 @@ The following visualizations from the Tableau Story highlight the results of the
 ![Screenshot (51)](https://user-images.githubusercontent.com/92612370/150501393-da357da6-8d2d-4ab5-848d-12c96761c18a.png)
 ![Screenshot (52)](https://user-images.githubusercontent.com/92612370/150501405-c9a43ca6-4de3-4994-bded-f265f10b9381.png)
 
-[link to Tableau Story](https://public.tableau.com/app/profile/jemi.shieh/viz/NYCCitiBike2_16426495082580/NYCCitiBike2Story?publish=yes)
+[link to Tableau Story](https://public.tableau.com/app/profile/jemi.shieh/viz/NYCCitiBike2_16426495082580/NYCCitiBike2Story?publish=yes "NYC Citi Bike2 Story")
 
 ## NYC Citi Bike Analysis Summary
 * 81% of users are subscribers which creates predictable and stable recurring cashflow.
