@@ -9,7 +9,7 @@ Use Tableau Public to analyze NYC Citi Bike trip data to create a business propo
 * Software: Tableau Public 2021.4.3, Jupyter Notebook 6.4.5, Pandas 1.2.4
 
 ## NYC Citi Bike Analysis Results
-The following visualizations from the Tableau Story ([link to Tableau Story](https://public.tableau.com/app/profile/jemi.shieh/viz/NYCCitiBike2_16426495082580/NYCCitiBike2Story?publish=yes "NYC Citi Bike2 Story")) highlight the results of the data analysis:
+The following visualizations from the [Tableau Story](https://public.tableau.com/app/profile/jemi.shieh/viz/NYCCitiBike2_16426495082580/NYCCitiBike2Story?publish=yes "NYC Citi Bike2 Story") highlight the results of the data analysis:
 
 ![Screenshot (46)](https://user-images.githubusercontent.com/92612370/150500835-3659e04f-8f0d-465a-9efc-fa1a6c12535b.png)
 ![Screenshot (47)](https://user-images.githubusercontent.com/92612370/150500936-41420630-306e-49bd-b851-6f2e2083464b.png)
