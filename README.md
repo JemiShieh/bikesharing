@@ -33,6 +33,7 @@ The following visualizations from the [Tableau Story](https://public.tableau.com
 * Trips by Gender and Customer Type by Weekday displays concentrations by male subscribers during weekdays.
 
 ## NYC Citi Bike Analysis Summary
+High-level summary:
 * 81% of users are subscribers which creates predictable and stable recurring cashflow.
 * 65% of users are male and 25% are female.
 * Checkout TImes for all users were nearly all less than 60 minutes, with the vast majority under 30 minutes.
