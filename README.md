@@ -12,12 +12,25 @@ Use Tableau Public to analyze NYC Citi Bike trip data to create a business propo
 The following visualizations from the [Tableau Story](https://public.tableau.com/app/profile/jemi.shieh/viz/NYCCitiBike2_16426495082580/NYCCitiBike2Story?publish=yes "NYC Citi Bike2 Story") highlight the results of the data analysis:
 
 ![Screenshot (46)](https://user-images.githubusercontent.com/92612370/150500835-3659e04f-8f0d-465a-9efc-fa1a6c12535b.png)
+* 81% of users are subscribers which creates predictable and stable recurring cashflow.
+
 ![Screenshot (47)](https://user-images.githubusercontent.com/92612370/150500936-41420630-306e-49bd-b851-6f2e2083464b.png)
+* 65% of users are male and 25% are female.
+
 ![Screenshot (48)](https://user-images.githubusercontent.com/92612370/150500960-6754eba2-8ce2-4a66-87df-7d1178e40a78.png)
+* Checkout TImes for all users were nearly all less than 60 minutes, with the vast majority under 30 minutes.
+
 ![Screenshot (49)](https://user-images.githubusercontent.com/92612370/150500989-c988f4de-2d0f-4d57-8d5c-88c18fef62fb.png)
+* Checkout Times by Gender is consistent with those for all users.
+
 ![Screenshot (50)](https://user-images.githubusercontent.com/92612370/150501386-f98f56de-87ce-4d2f-9556-e3dbe51c5ab0.png)
+* Trips by Weekday per Hour displays concentrations during weekday morning/evening rush hours and weekend afternoons.
+
 ![Screenshot (51)](https://user-images.githubusercontent.com/92612370/150501393-da357da6-8d2d-4ab5-848d-12c96761c18a.png)
+* Trips by Gender and Weekday per Hour is consistent with those for all users.
+
 ![Screenshot (52)](https://user-images.githubusercontent.com/92612370/150501405-c9a43ca6-4de3-4994-bded-f265f10b9381.png)
+* Trips by Gender and Customer Type by Weekday displays concentrations by male subscribers during weekdays.
 
 ## NYC Citi Bike Analysis Summary
 * 81% of users are subscribers which creates predictable and stable recurring cashflow.
